@@ -1,6 +1,9 @@
 # Calculadora_pt_BR
 ### Aplicação desenvolvida em Python com PyQt5.
 ### https://pypi.org/project/PyQt5/
+### https://build-system.fman.io/qt-designer-download
+![image](https://user-images.githubusercontent.com/101942554/190546851-52958b30-63a4-4acc-b9a5-6c93b0c4e977.png)
+
 
 
 
